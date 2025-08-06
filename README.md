@@ -1,2 +1,5 @@
 # Dev-Divas
-AI x GBV: Using AI to prevent, detect, and respond to Gender-Based Violence  Sample concepts: AI chatbots for anonymous reporting, predictiveanalytics for risk areas, smart workplace monitoring tools
+
+EmpowerHER AI Hackathon 
+
+Safira is an AI-powered chatbot that provides a safe and anonymous platform for women and girls to report incidents of GBV. The chatbot uses natural language processing (NLP) to understand user inputs and provides support resources, such as hotlines, counseling services, or local organizations that can help.
